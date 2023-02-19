@@ -1,0 +1,29 @@
+:root {
+  --background-color: #FFF8EA;
+  --alternative-color: #9E7676;
+  --secundary-color: #815B5B;
+  --primary-color: #594545;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: Roboto,sans-serif;
+  line-height: 1.5;
+  font-size: 1rem;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button {
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  cursor: pointer;
+}
