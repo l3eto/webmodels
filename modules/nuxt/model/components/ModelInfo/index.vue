@@ -92,6 +92,7 @@ $maxWidthContent: 900px;
 
   &__tags {
     color: grey;
+    word-wrap: break-word;
   }
 
   &__gender{

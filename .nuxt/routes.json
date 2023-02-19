@@ -2,22 +2,22 @@
   {
     "name": "models",
     "path": "/models",
-    "component": "C:\\\\Users\\\\Juan Alberto ACUÑA\\\\Documents\\\\beto\\\\github\\\\nuxt-models\\\\front-end-challenge\\\\pages\\\\models.vue",
+    "component": "E:\\\\Proyectos\\\\Nuxt\\\\front-end-challenge\\\\pages\\\\models.vue",
     "chunkName": "pages/models",
-    "_name": "_14e8ec29"
+    "_name": "_2be8e5bf"
   },
   {
     "name": "model-id",
     "path": "/model/:id?",
-    "component": "C:\\\\Users\\\\Juan Alberto ACUÑA\\\\Documents\\\\beto\\\\github\\\\nuxt-models\\\\front-end-challenge\\\\pages\\\\model\\\\_id.vue",
+    "component": "E:\\\\Proyectos\\\\Nuxt\\\\front-end-challenge\\\\pages\\\\model\\\\_id.vue",
     "chunkName": "pages/model/_id",
-    "_name": "_37f83120"
+    "_name": "_20a12606"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\Juan Alberto ACUÑA\\\\Documents\\\\beto\\\\github\\\\nuxt-models\\\\front-end-challenge\\\\pages\\\\index.vue",
+    "component": "E:\\\\Proyectos\\\\Nuxt\\\\front-end-challenge\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_37c06d63"
+    "_name": "_02a02de6"
   }
 ]

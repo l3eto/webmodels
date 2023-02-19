@@ -6,9 +6,9 @@ export default class Model {
     this.age = data.age;
     this.gender = data.gender;
     this.email = data.email;
-    this.isModerated = data.is_moderated;
-    this.createdAt = data.created_at;
+    this.is_moderated = data.is_moderated;
+    this.created_at = data.created_at;
     this.tags = data.tags;
-    this.eyeColor = data.eyes;
+    this.eyes = data.eyes;
   }
 }
